@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/02cdc79d-95ac-4fb8-9879-d72ae3245e1a)
+
 Hello guys, this is a fivem  qb-core scoreboard script. Hope you like it!
 
 # How to change the max player count
