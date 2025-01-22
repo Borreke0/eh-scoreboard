@@ -52,7 +52,7 @@ AddEventHandler("scoreboard:updatePlayerCount", function(count)
     SendNUIMessage({
         action = "updatePlayerCount",
         playerCount = count,
-        maxPlayers = 128
+        maxPlayers = Config.maxPlayers
     })
 end)
 
