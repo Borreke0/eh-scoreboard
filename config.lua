@@ -1,0 +1,3 @@
+Config {
+  maxPlayers = 128
+}
