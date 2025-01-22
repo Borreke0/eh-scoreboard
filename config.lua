@@ -1,3 +1,3 @@
-Config {
+Config = {
   maxPlayers = 128
 }
