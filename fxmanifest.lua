@@ -5,6 +5,10 @@ author 'Encheww77'
 description 'QB-Core Scoreboard'
 version '1.0.0'
 
+shared_scripts {
+    'config.lua'
+}
+
 client_scripts {
     'client/main.lua'
 }
